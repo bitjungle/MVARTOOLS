@@ -1,0 +1,12 @@
+MVARTOOLS is a Matlab toolbox for doing multivariate analysis and 
+calibration. It is distributed under the GNU General Public License.
+
+MVARTOOLS was made during my M.Sc. thesis work, but was not a part 
+of the thesis. I made it just to familiarize myself with Matlab 
+(and Octave), and to get a better understanding of the PCA, PCR and 
+PLS algorithms. Since 2001, I have not done any development/bug 
+fixing on MVARTOOLS. You have been warned!
+
+MVARTOOLS is not a state-of-the-art industrial strength multivariate 
+package. If that’s what you are looking for, I strongly recommend 
+PLS_Toolbox.
